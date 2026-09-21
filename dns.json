@@ -1,0 +1,21 @@
+{
+  "github.com": {
+    "name": "github.com",
+    "url": "https://^.github.com/|"
+  },
+  "githubusercontent.com": {
+    "name": "githubusercontent.com",
+    "url": "https://^.githubusercontent.com/|"
+  },
+  "a.com" : {
+    "name": "a.com",
+    "url": "https://aurorawebco.github.io/website/^/|"
+  },
+  "jake.com": {
+    "name": "jake.com",
+    "url": "https://^.hijake.xyz/|"
+  },
+  "com.com": {
+    "name": "com.com",
+    "url": "https://aurorawebco.github.io/com.com/^/|"
+}
