@@ -1,21 +1,37 @@
 {
   "github.com": {
     "name": "github.com",
-    "url": "https://^.github.com/|"
+    "subdomains": {
+      "*": {
+        "redirurl": "https://^.github.com/|"
+      }
+    }
   },
   "githubusercontent.com": {
     "name": "githubusercontent.com",
-    "url": "https://^.githubusercontent.com/|"
+    "subdomains": {
+      "*": {
+        "redirurl": "https://^.githubusercontent.com/|"
+      }
   },
   "a.com" : {
     "name": "a.com",
-    "url": "https://aurorawebco.github.io/website/^/|"
+    "subdomains": {
+      "*": {
+        "redirurl": "https://aurorawebco.github.io/website/^/|"
+      }
   },
   "jake.com": {
     "name": "jake.com",
-    "url": "https://^.hijake.xyz/|"
+    "subdomains": {
+      "*": {
+        "redirurl": "https://^.hijake.xyz/|"
+      }
   },
   "com.com": {
     "name": "com.com",
-    "url": "https://aurorawebco.github.io/com.com/^/|"
+    "subdomains": {
+      "*": {
+        "redirurl": "https://aurorawebco.github.io/com.com/^/|"
+      }
 }
