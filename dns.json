@@ -13,6 +13,7 @@
       "*": {
         "redirurl": "https://^.githubusercontent.com/|"
       }
+    }
   },
   "a.com" : {
     "name": "a.com",
@@ -20,6 +21,7 @@
       "*": {
         "redirurl": "https://aurorawebco.github.io/website/^/|"
       }
+    }
   },
   "jake.com": {
     "name": "jake.com",
@@ -27,6 +29,7 @@
       "*": {
         "redirurl": "https://^.hijake.xyz/|"
       }
+    }
   },
   "com.com": {
     "name": "com.com",
@@ -34,4 +37,5 @@
       "*": {
         "redirurl": "https://aurorawebco.github.io/com.com/^/|"
       }
+    }
 }
